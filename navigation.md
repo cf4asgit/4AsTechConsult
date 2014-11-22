@@ -7,8 +7,8 @@
 [Topic Pages]()
 
   * [Storage](topics/storage.md)
-  * [SubPage2](topics/page2.md)
-  * [SubPage3](topics/page3.md)
+  * [SubPage2](topics/subpage2.md)
+  * [SubPage3](topics/subpage3.md)
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootstrap)
