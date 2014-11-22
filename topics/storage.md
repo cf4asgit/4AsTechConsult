@@ -2,7 +2,6 @@
 
 ## Email - advice to Val Junker Munn Rabot
 
-
 Val,
 
 It was a pleasure speaking with you today.  A quick summary to file with your notes:
@@ -13,4 +12,4 @@ It was a pleasure speaking with you today.  A quick summary to file with your no
 
 3. Another alternative would be something like AWS Storage Gateway combined with Symantec BackupExec.  Would require setting up a relatively small virtualized environment to host the AWS Storage Gateway VM, and approximately 14 days (assuming ~50TB data set and ~500mbps upload bandwidth) to seed the initial backup set.
 
-Please let me know if you have any questions, and good luck!
+## Please let me know if you have any questions, and good luck!
