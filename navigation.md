@@ -1,8 +1,8 @@
 # 4As Tech Consultancy #
 
 [About](about.md)
-[Year in Review](yir.md)
-<!--[Page3](page3.md)-->
+[Page2](page2.md)
+[Page3](page3.md)
 
 [Topic Pages]()
 
@@ -11,7 +11,7 @@
   * [SubPage3](topics/subpage3.md)
 
 <!-- set a default theme -->
-[gimmick:theme (inverse: false)](bootstrap)
+[gimmick:theme (inverse: false)](flatly)
 
 <!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
